@@ -1,0 +1,7 @@
+file = open("C:\\Users\\Aaron\\Desktop\\PSU FILES\\Semester 2 - Spring 2021\\IST 140\\input output\\READ.txt", "r")
+linedata = file.readlines()
+print(linedata[-5])
+print(linedata[-4])
+print(linedata[-3])
+print(linedata[-2])
+print(linedata[-1])
